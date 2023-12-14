@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## 헌트 온라인 프로젝트 저장소입니다.
+이 레포지토리를 포크해서 사용합니다.
